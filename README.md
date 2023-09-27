@@ -1,5 +1,8 @@
 # Object Detection using Webcam
-Setup the project using the following instructions
+https://github.com/Kamran-it009/Webcam-Object-Detection/assets/109745004/6f9b7b1e-b692-4e1c-87b9-eb594eb6488d
+
+
+#### Setup the project using the following instructions
  * First create an environment of python 3.8
  * Activate the environment by using the following command
    * conda activate (environment_name)
